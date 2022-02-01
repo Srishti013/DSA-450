@@ -2,3 +2,4 @@
 * [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1#) --> [Ans](/Arrays/rotate_1.cpp)
 * [Find The Duplicate](https://leetcode.com/problems/find-the-duplicate-number/) --> [Ans](/Arrays/find_dup.cpp)
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) --> [Ans](/Arrays/stock(1).cpp)
+* [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#) --> [Ans](/Arrays/k_algo.cpp)
