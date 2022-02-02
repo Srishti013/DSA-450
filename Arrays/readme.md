@@ -3,3 +3,4 @@
 * [Find The Duplicate](https://leetcode.com/problems/find-the-duplicate-number/) --> [Ans](/Arrays/find_dup.cpp)
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) --> [Ans](/Arrays/stock(1).cpp)
 * [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#) --> [Ans](/Arrays/k_algo.cpp)
+* [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) --> [Ans](/Arrays/comm_ele.cpp)
