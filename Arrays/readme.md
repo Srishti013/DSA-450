@@ -5,3 +5,4 @@
 * [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#) --> [Ans](/Arrays/k_algo.cpp)
 * [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) --> [Ans](/Arrays/comm_ele.cpp)
 * [Find minimum and maximum element in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1#) --> [Ans](/Arrays/min_max.cpp)
+* [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#) --> [Ans](/Arrays/sort012.cpp)
