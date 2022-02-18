@@ -8,3 +8,4 @@
 * [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#) --> [Ans](/Arrays/sort012.cpp)
 * [Move all negative elements to end](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1#) --> [Ans](/Arrays/move_neg.cpp)
 * [Find duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1#) --> [Ans](/Arrays/find_dupp.cpp)
+* [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/#) --> [Ans](/Arrays/union.cpp)
