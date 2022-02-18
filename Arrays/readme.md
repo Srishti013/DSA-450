@@ -10,4 +10,4 @@
 * [Find duplicates in an array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1#) --> [Ans](/Arrays/find_dupp.cpp)
 * [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/#) --> [Ans](/Arrays/union.cpp)
 * [Triplet Sum in Array](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1#) --> [Ans](Arrays/triplet.cpp)
-* [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) --> [Ans](/Arrays/comm_ele.cpp)
+* [Common elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) --> [Ans](/Arrays/com_ele.cpp)
